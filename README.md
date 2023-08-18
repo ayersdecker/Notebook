@@ -1,6 +1,8 @@
 # Notebook - Decker Ayers
 
 ### Projects
+	- AlertBoss
+	- PopSign
 	- SMARTSign
 	- Text2Txt
 	- Solve.AI
