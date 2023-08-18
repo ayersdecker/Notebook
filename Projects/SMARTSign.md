@@ -2,6 +2,8 @@
 
 [Client's Original Site](http://storage.googleapis.com/smartsigndictionary.org/index.htm)
 
+![SMARTSignDemo](https://github.com/ayersdecker/Notebook/assets/69859630/dcc1c890-1cca-4f52-b4e0-7f0595b9e2e1)<br>
+*Demonstration of New App*
 ## Goal
 The new application aims to replicate the work done on the original site along with an updated search function. 
 
