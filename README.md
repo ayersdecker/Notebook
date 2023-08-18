@@ -16,6 +16,7 @@
 ### Learning
 	- .NET MAUI
 	- .NET Blazor
+	- .NET Web API
 	- React.js
 	- Laravel
 	- Unity 2D
