@@ -1,8 +1,25 @@
 # Notebook - Decker Ayers
 
-### Index
-1. Current Agenda
-2. In-Progress Projects
-3. Completed Projects
-4. Project Ideas
+### Projects
+	- SMARTSign
+	- Text2Txt
+	- Solve.AI
+	- OpenWeatherLite
+	- DadJokes
+	- Reflex
+	- ClearCaptions
+	- Portfolio
+	- Flappy Tiger
+	- TP-Link
+	- ASL.ML
+	- Assets
+### Learning
+	- .NET MAUI
+	- .NET Blazor
+	- React.js
+	- Laravel
+	- Unity 2D
+	- MediaPipe
+	- Discord Webhook
+### Ideas
 
