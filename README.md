@@ -15,6 +15,9 @@
 	- Flappy Tiger
 	- TP-Link
 	- ASL.ML
+	- ChatGPT Console
+	- COVID Tracker Mobile
+	- DueIt
 	- Assets
 ### Learning
 	- .NET MAUI
@@ -25,5 +28,7 @@
 	- Unity 2D
 	- MediaPipe
 	- Discord Webhook
+	- OpenAI
+	- Google Firebase
 ### Ideas
 
