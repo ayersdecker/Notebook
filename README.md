@@ -1,9 +1,6 @@
 # Notebook - Decker Ayers
 
 ### Projects
-	- AlertBoss
-	- PopSign
-	- C4 NTID
 	- SMARTSign
 	- Text2Txt
 	- Solve.AI
@@ -11,6 +8,9 @@
 	- DadJokes
 	- Reflex
 	- ClearCaptions
+	- AlertBoss
+	- PopSign
+	- C4 NTID
 	- Portfolio
 	- Flappy Tiger
 	- TP-Link
