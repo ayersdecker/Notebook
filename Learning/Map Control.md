@@ -38,4 +38,3 @@ iOS/macOS - 0m
 
 Windows - 0-10m
 ```
-testing
